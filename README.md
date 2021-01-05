@@ -17,4 +17,4 @@ We use the primary tampered image as auxiliary information and the secondary tam
 ### model structure
 
 We propose a model based encoder-decoder structure.
-<img src="./figures/tam_3.png" width="200" height="200"/>
+<img src="./figures/tam_3.png" />
