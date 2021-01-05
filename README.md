@@ -7,5 +7,6 @@ We use the primary tampered image as auxiliary information and the secondary tam
 
 * primary tampered image
 <img src="./figures/tam_1.png" width="200" height="200"/>
+
 * secondary tampered image
 <img src="./figures/tam_2.png" width="200" height="200"/>
