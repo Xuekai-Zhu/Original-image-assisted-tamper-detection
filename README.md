@@ -6,4 +6,4 @@ We propose an original image-assisted tamper detection method named OIA-TD which
 We use the primary tampered image as auxiliary information and the secondary tampered image at the same time as input to the model.
 
 
-<img src="./figures/tam_1.png" alt="GitHub" title="primary tampered image" width="70" height="70" />
+<img src="./figures/tam_1.png" alt="GitHub" title="primary tampered image" />
