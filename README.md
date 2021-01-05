@@ -7,3 +7,4 @@ We use the primary tampered image as auxiliary information and the secondary tam
 
 
 ![primary tampered image](./figures/tam_1.png){:height="50%" width="50%"}
+<img src="./figures/tam_1.png" alt="GitHub" title="primary tampered image" width="50" height="50" />
